@@ -1,4 +1,4 @@
-//var exec = require("child_process").exec;
+//var exec = require("child_process").exec;此模块能实现一个既简单又实用的非阻塞操作：exec();
 var querystring = require("querystring"),
 	fs = require("fs"),
 	formidable = require("d:\\sublime text\\nodejs\\node_modules\\formidable");
